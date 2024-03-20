@@ -1,0 +1,13 @@
+libcxx-serial1
+python3-serial
+python3-serial-asyncio
+libusb-1.0-0
+python3-usb
+python3-usb1
+libvisa-dev
+libvisa0
+python3-pyvisa
+python3-pyvisa-py
+vish
+python3-psutil
+python3-zeroconf
